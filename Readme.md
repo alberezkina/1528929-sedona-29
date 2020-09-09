@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александра Березкина](https://up.htmlacademy.ru/htmlcss/29/user/1528929).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов] (https://htmlacademy.ru/profile/sench).
 
 ---
 
